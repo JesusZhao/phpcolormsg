@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.reg{
+  width: 400px;
+  margin: 150px auto;
+  padding: 15px;
+  background-color: #298ee4;
+}
+
+p{
+  margin-top: 10px;
+}
+
+label{
+  display: inline-block;
+  width: 100px;
+  text-align: right;
+}
+
+input{
+  padding: 5px;
+  width: 280px;
+}
+
+.btns{
+  text-align: right;
+}
+
+.btns>input{
+  width: 47%;
+  font-size: 16px;
+}

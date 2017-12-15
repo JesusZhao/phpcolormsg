@@ -1,0 +1,31 @@
+.login{
+  width: 410px;
+  margin: 150px auto;
+  padding: 10px;
+  background-color: #298ee4;
+}
+
+input{
+  padding: 5px;
+  width: 75%;
+}
+
+.btns{
+  text-align: center;
+}
+
+label{
+  display: inline-block;
+  text-align: right;
+  width: 80px;
+}
+
+.btn{
+  width: 49%;
+  padding: 5px;
+  font-size: 16px;
+}
+
+select {
+  width: 79%;
+}

@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 50%;
+  margin: 0 auto;
+}
+
+header {
+  line-height: 5em;
+}
+
+.repubcontent {
+  overflow: hidden;
+}
+
+.usrcontent {
+  margin: 0 auto;
+  width: 98%;
+  padding: 5px;
+}
+
+.btns{
+  margin: 5px;
+}
+
+.usr, .username {
+  float: left;
+}
+
+.usr{
+  padding: 2px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+button{
+  padding: 1px 5px;
+  font-size: 12px;
+}
+
+.btn, .pubtime {
+  float: right;
+}
+
+.msg {
+  margin: 8px auto;
+  padding: 8px;
+  border: 1px solid #333;
+}
+
+.msg, .pubcontent {
+  clear: both;
+}
+
+.noshow{
+  display: none;
+}
+
+.delete{
+  float: right;
+  margin: 1px 0 0 10px;
+}
+
+.fb{
+  margin-left: 5px;
+  width: 15%;
+}
